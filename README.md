@@ -14,4 +14,4 @@
 
 enjoy :)
 
-# https://github.com/WKS-uwu/WKS-KEY/releases/tag/WKS-KEY
+# https://github.com/SASUKE-DUCK/WKS-KEY/releases/tag/WKS-KEY
