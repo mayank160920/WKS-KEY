@@ -1,17 +1,29 @@
-# WKS-KEY (CDM-L1 / CDM-L3)
+## WKS-KEY 
+This script will obtain keys to decrypt the encrypted videos.
 
-![image](https://media.discordapp.net/stickers/879816641297387560.png?size=160)
+## How to use
+
+You have to play any video you want to download and get the "bash" from network, here is an example:
 
 ![image](https://cdn.discordapp.com/attachments/707710449398841506/915979279240658984/unknown.png)
 
-# https://curlconverter.com/
+Then we use this page "https://curlconverter.com" and we put what we get and we put that we want it in python like this example:
 
 ![image](https://cdn.discordapp.com/attachments/707710449398841506/915979376330412042/unknown.png)
 
-# python l3.py
+Then run the script 
 
-![image](https://cdn.discordapp.com/attachments/707710449398841506/915979986010255420/unknown.png)
+* python keys.py
 
-enjoy :)
+And you should get a result like this (Test random):
 
-# https://github.com/SASUKE-DUCK/WKS-KEY/releases/tag/WKS-KEY
+![image](https://i.ibb.co/ZX3ZrPK/unknown-1.png)
+
+you must get your own cdm or use one that is leaked
+
+You can download the script here:
+
+* [WKS-KEY](https://github.com/SASUKE-DUCK/WKS-KEY/releases)
+
+I hope this helps you a lot 
+(I just did it out of boredom xd)
